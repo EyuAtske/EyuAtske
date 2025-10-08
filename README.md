@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyuel</h1>
 <h3 align="center">An inspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **EyuelA.Fekade21@gmail.com**
 
