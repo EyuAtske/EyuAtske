@@ -2,7 +2,7 @@
 <h3 align="center">An inspiring Software Engineer</h3>
 
 # 💫 About Me:
-Being A Backend Developer<br>I am currently a student at HilCoe School of Computer Science<br>
+I am currently working on being A Backend Developer<br>I am currently a student at HilCoe School of Computer Science<br>
 
 
 ## 🌐 Socials:
